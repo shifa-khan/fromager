@@ -27,6 +27,7 @@ those special cases directly into fromager.
    :maxdepth: 2
 
    using.md
+   quickstart.rst
    getting-started.rst
    customization.md
    concepts/index.rst
